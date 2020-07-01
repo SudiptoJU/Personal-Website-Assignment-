@@ -29,7 +29,7 @@ p{
     background-repeat: none;
 }
 section{
-    height: 1000px;
+    height: 800px;
 }
 #part-two{
     margin-top: 133px;
@@ -65,4 +65,50 @@ section{
     box-shadow: 0 0 black;
     padding: 20px 20px;
     margin-left: 11px;
+}
+.clients-words{
+    background-image: url(images/footer-bg.png);
+    background-repeat: none;
+    padding: 30px ;
+}
+.clients-words h2 {
+    text-align: center;
+    font-size: 29px;
+    font-weight: 600;
+}
+.founder-ceo{
+    text-align: center;
+}
+.founder-ceo p {
+    font-size: 14px;
+    font-weight: 505;
+    color: #7270707a;
+}
+.words{
+    text-align: center;
+    color: dimgray;
+    font-weight: 500;
+}
+
+.box {
+    width: 600px;
+    height: 120px;
+    background-color: #ff3c89;
+    margin: auto;
+    border-radius: 10px;
+}
+.box p {
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+.box h5 {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+footer{
+    text-align: center;
+    margin-top: 150px;
 }
