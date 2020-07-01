@@ -1,0 +1,68 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+    color: mediumvioletred;
+}
+h3{
+    font-size: 30px;
+    font-weight: 400;
+}
+p{
+    color: dimgray;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+}
+#part-one{
+    margin-top: 133px;
+}
+.half-width img{
+    width: 100%;
+}
+.first-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: none;
+}
+section{
+    height: 1000px;
+}
+#part-two{
+    margin-top: 133px;
+}
+#part-two h3{
+    font-size: 25px;
+}
+.biography-banner{
+    background-image: url(images/biography-bg.png);
+    background-repeat: none;
+}
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(212deg, mediumvioletred,violet);
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 800;
+    color: white;
+}
+
+.latest-works{
+    width: 100%;
+}
+.latest-works h2 {
+    text-align: center;
+    font-size: 29px;
+    font-weight: 600;
+}
+.latest-works img {
+    width: 450px;
+    height: auto;
+    float: left;
+    box-shadow: 0 0 black;
+    padding: 20px 20px;
+    margin-left: 11px;
+}
